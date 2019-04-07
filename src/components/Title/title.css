@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.title {
+    height: 20px;
+    text-align: center;
+
+}
+
+.title h1 {
+    padding-top: 5px;
+    font-size: 72px;
+    font-family: 'Permanent Marker', cursive;
+    color: 	rgb(226, 241, 14);
+    text-shadow:
+
+}
+
+.title p {
+    font-size: 26px;
+    color: 	rgb(235, 231, 8);
+    text-shadow: red;
+
+}

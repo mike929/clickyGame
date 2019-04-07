@@ -1,9 +1,12 @@
 import React from "react";
 import "./style.css";
 
+
+
 function GameCard(props) {
   return (
     <div className="card">
+    <div className="card" onClick={() => props.selectedImage(props.id)}>
       <div className="img-container">
         <img alt={props.name} src={props.image} />
       </div>
@@ -13,19 +16,13 @@ function GameCard(props) {
             <center>
             <strong>Name:</strong> {props.name}
             </center>
-          </li>
-          <li>
-            {/* <strong>Occupation:</strong> {props.occupation} */}
-          </li>
-          <li>
-            {/* <strong>Location:</strong> {props.location} */}
-          </li>
-        </ul>
+          </li> 
+          </ul>
+        </div>
       </div>
-      <span onClick={() => props.removeFriend(props.id)} className="remove">
-        
-      </span>
-    </div>
+      </div>
+  
+    
   );
 }
 
