@@ -1,8 +1,16 @@
 
+## Super Hero Clicky Game
+
+![image](./screenshot.PNG)
 
 
-![image](https://github.com/mike929/clickygame/blob/master/screenshot.PNG)
+1. The application renders 12 different super heros to the screen. Each image should listen for click events.
 
+2. The application keeps track of the user's score. The user's score will increment when clicking an image for the first time. The user's score will be reset to 0 if the user clicks the same image more than once.
+
+3. Every time an image is clicked, the images rendered to the page shuffles themselves in a random order.
+
+4. Once the user's score is reset after an incorrect guess, the game will restart.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
