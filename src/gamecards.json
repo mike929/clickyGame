@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "falcon",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/6/19/enhanced/webdr05/original-25356-1423267513-15.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Spawn",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/9/14/enhanced/webdr05/enhanced-3476-1423508593-3.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Luke Cage",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/9/12/enhanced/webdr10/enhanced-5517-1423501551-5.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Static",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/6/16/enhanced/webdr06/original-6287-1423258915-3.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Misty Knight",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/9/11/enhanced/webdr05/original-8671-1423497752-4.jpg?downsize=800:*&output-format=auto&output-quality=autos/images/Melkotion.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Batwing",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/6/15/enhanced/webdr04/enhanced-27709-1423255663-1.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Vixen",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/6/15/enhanced/webdr02/enhanced-9520-1423254438-1.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Steel",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/6/12/enhanced/webdr07/original-17731-1423242366-13.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Monica Rambeau Captain Marvel",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/5/17/enhanced/webdr09/original-27340-1423176998-11.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Green Latern John Stewart",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/5/17/enhanced/webdr12/enhanced-6712-1423173728-23.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Storm",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/5/16/enhanced/webdr09/original-17276-1423171625-8.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Black Panther",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/5/14/enhanced/webdr11/original-30422-1423165521-36.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "clicked": false
+    }
+  ]
